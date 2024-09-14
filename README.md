@@ -1,0 +1,1 @@
+This repo holds solved problems for MySQL Softuni course.
