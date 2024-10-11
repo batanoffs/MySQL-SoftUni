@@ -200,4 +200,3 @@ SELECT * FROM addresses WHERE address_id = 166;
 SELECT * FROM towns WHERE town_id = 12;
 
 SELECT * FROM projects;
- 
